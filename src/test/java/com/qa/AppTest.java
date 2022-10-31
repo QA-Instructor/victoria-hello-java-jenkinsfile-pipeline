@@ -15,13 +15,13 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void test_shouldAnswerWithTrue()
     {
         assertTrue( true );
     }
 
     @Test
-    public void shouldAnswerWithFalse()
+    public void test_shouldAnswerWithFalse()
     {
         assertFalse( false );
     }
