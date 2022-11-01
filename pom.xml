@@ -72,8 +72,8 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
-      <repository>
+    <distributionManagement>
+    <repository>
       <id>github</id>
       <name>GitHub Packages</name>
       <url>https://maven.pkg.github.com/QA-Instructor/hello-world-published-artifacts</url>
