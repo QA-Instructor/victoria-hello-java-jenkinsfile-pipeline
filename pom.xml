@@ -72,14 +72,11 @@
       </plugins>
     </pluginManagement>
   </build>
-    <distributionManagement>
-    <repository>
-      <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/QA-Instructor/victoria-hello-java-jenkinsfile-pipeline</url>
-                <snapshots>
-            <enabled>true</enabled>
-          </snapshots>
-    </repository>
-  </distributionManagement>
+  <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub QA Instructor Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/QA-Instructor/victoria-hello-java-jenkinsfile-pipeline</url>
+   </repository>
+</distributionManagement>
 </project>
